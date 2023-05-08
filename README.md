@@ -1,8 +1,5 @@
 ### Olá! Eu sou Lucas Brandão!
-
-- 🔭 Hoje trabalho com front-end
-- 🌱 Estudando React
-- 😄 Pronouns: ele/dele
+Developer Junior Front-End | JavaScript | React | Node.JS | Angular | TypeScript
 
 <div align="center">
   <a href="https://github.com/lucasbranndao">
