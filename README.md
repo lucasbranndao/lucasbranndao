@@ -1,5 +1,5 @@
 ### Olá! Eu sou Lucas Brandão!
-Developer Junior Front-End | JavaScript | React | Node.JS | Angular | TypeScript
+Desenvolvedor Front-End | JavaScript | Angular | TypeScript | Git/Github
 
 <div align="center">
   <a href="https://github.com/lucasbranndao">
