@@ -4,7 +4,7 @@ Desenvolvedor C# | .Net | Git/Github
 <div style="text-justify: auto">Profissional de TI com experiência com0 Desenvolvedor Full Stack e background consistente em suporte técnico, redes e 
   administração de servidores. Atualmente estou estudando .NET/C# com foco em back-end. Anteriormente, atuei na supervisão e manutenção de infraestrutura de TI, com  
   domínio de servidores Windows, Active Directory e redes. Capacidade comprovada de atuar em todas as etapas do ciclo de desenvolvimento e de gerenciar ambientes 
-  técnicos complexos, sempre com foco em performance, segurança e experiência do suário.
+  técnicos complexos, sempre com foco em performance, segurança e experiência do usuário.
   <div>
 <br>
 <div align="center">
