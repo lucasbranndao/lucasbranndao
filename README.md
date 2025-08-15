@@ -1,10 +1,22 @@
 # Olá! Eu sou Lucas Brandão!
 Desenvolvedor C# | .Net | Git/Github
 ## Sobre mim
-<div style="text-justify: auto">Profissional de TI com experiência com0 Desenvolvedor Full Stack e background consistente em suporte técnico, redes e 
-  administração de servidores. Atualmente estou estudando .NET/C# com foco em back-end. Anteriormente, atuei na supervisão e manutenção de infraestrutura de TI, com  
-  domínio de servidores Windows, Active Directory e redes. Capacidade comprovada de atuar em todas as etapas do ciclo de desenvolvimento e de gerenciar ambientes 
-  técnicos complexos, sempre com foco em performance, segurança e experiência do usuário.
+<div style="text-justify: auto">Desenvolvedor em transição para o ecossistema .NET, com experiência em desenvolvimento full stack e infraestrutura de TI. Atualmente aprofundando conhecimentos em C#, ASP.NET Core, APIs REST, Entity Framework, Docker e Azure, através do Bootcamp GFT Start #7 – .NET (DIO), com foco em construção de soluções escaláveis, seguras e de alta performance. Experiência prévia com Angular, Laravel, MySQL/MariaDB e suporte técnico, capaz de atuar do back-end ao front-end e na gestão de ambientes de produção.
+
+- C#
+- .NET 8 / ASP.NET Core
+- Entity Framework Core
+- APIs RESTful
+- POO (Herança, Polimorfismo, Interfaces)
+- SQL / MySQL / MariaDB
+- MongoDB
+- Docker
+- Azure (VMs, Banco de Dados, Serviços)
+- Angular / TypeScript / JavaScript
+- Git / GitHub
+- Scrum / Kanban
+
+Estou aberto a novas oportunidades e diálogos para geração de negócios! Entre em contato comigo aqui, por e-mail: lucasbranndao@gmail.com, ou pelo WhatsApp: (62) 99868-4030.
   <div>
 <br>
 <div align="center">
